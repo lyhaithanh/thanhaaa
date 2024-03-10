@@ -52,7 +52,7 @@ setup(
     },
     install_requires    = [],
     dependency_links=[
-        https://github.com/lyhaithanh/thanhaaa.git
+        'https://github.com/lyhaithanh/thanhaaa.git',
     ],
     entry_points        = {
         'console_scripts': [
