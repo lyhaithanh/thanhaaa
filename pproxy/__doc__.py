@@ -1,9 +1,9 @@
-__title__       = "pproxy"
+__title__       = "thanhaaa"
 __license__     = "MIT"
 __description__ = "Proxy server that can tunnel among remote servers by regex rules."
 __keywords__    = "proxy socks http shadowsocks shadowsocksr ssr redirect pf tunnel cipher ssl udp"
-__author__      = "Qian Wenjie"
-__email__       = "qianwenjie@gmail.com"
+__author__      = "lyhaithanh"
+__email__       = "lyhaithanh@gmail.com"
 __url__         = "https://github.com/lyhaithanh/thanhaaa"
 
 try:
